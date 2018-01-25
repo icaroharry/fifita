@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-players {
+  display: flex;
+  flex-direction: row;
+}
