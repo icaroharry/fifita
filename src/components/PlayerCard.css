@@ -11,6 +11,10 @@
   flex-grow: 3;
 }
 
+.winner {
+  border: 2px solid red;
+}
+
 .PlayerCard-pic {
   height: 100px;
   width: 100px;
