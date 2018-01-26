@@ -1,6 +1,6 @@
 # FIFITA [![Build Status](https://travis-ci.org/icaroharry/fifita.svg?branch=master)](https://travis-ci.org/icaroharry/fifita)
 
-This is a test application built with react. It sorts 2 of 3 players to play a FIFA match.
+This is a test application built with react. It sorts 2 out of 3 players to play a FIFA match.
 
 - Tests with Jest + Enzyme
 - Deploy with GH pages
